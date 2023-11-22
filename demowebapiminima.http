@@ -1,0 +1,6 @@
+@demowebapiminima_HostAddress = http://localhost:5207
+
+GET {{demowebapiminima_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
